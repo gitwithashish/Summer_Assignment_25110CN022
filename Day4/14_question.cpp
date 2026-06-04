@@ -8,7 +8,7 @@ int main(){
      cin>>n;
     for(int i=1;i<=n;i++){
        if(i==n){
-        cout<<"nth fibonacci term is: "<< a;}
+        cout<<"nth fibonacci term is:"<< a;}
        c=a+b;
        a=b;
        b=c;}
